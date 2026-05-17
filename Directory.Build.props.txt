@@ -1,0 +1,11 @@
+<Project>
+
+  <PropertyGroup>
+    <!-- Enable Roslyn analyzers -->
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+
+    <!-- Optional: use latest rule set -->
+    <AnalysisLevel>latest</AnalysisLevel>
+  </PropertyGroup>
+
+</Project>
